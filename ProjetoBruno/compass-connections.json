@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "4dbc91eb-594c-4b30-9812-945008c6a18c",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1730947237710"
+        }
+      },
+      "favorite": {
+        "name": "Hospital",
+        "color": "color5"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://nicolas:WnQwltP8P1dUj3CG@cluster0.bdeme.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
